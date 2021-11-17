@@ -203,3 +203,6 @@
 !/.sublime
 /.sublime/homebrew.sublime-workspace
 !/.vscode
+
+# Ignore xcode files
+brew.xcodeproj/
